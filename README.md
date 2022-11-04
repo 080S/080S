@@ -1,9 +1,7 @@
 div id="header" align="center">
   <img src="https://gifyu.com/image/SEldG" width="100"/>
 </div>
-
 Label-Color
-
 <div id="badges">
 <a href="youtube.com/@okls">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
