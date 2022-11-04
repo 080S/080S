@@ -2,7 +2,7 @@
 </div>
 i go by the user "ms"
 <div id="badges">
-<a href="youtube.com/@okls">
+<a href="https://youtube.com/@okls">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/offsecs?s=20&t=FwazwtMdYz3WRuLtpK7NJg">
